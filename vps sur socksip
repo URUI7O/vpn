@@ -1,0 +1,1 @@
+wget -O UDPserver_modified.sh https://gist.githubusercontent.com/your-username/raw/modified-script-url/UDPserver_modified.sh; chmod +x UDPserver_modified.sh; ./UDPserver_modified.sh
